@@ -1,1 +1,2 @@
 go run main.go 0 tensorflow_inception_graph.pb imagenet_comp_graph_label_strings.txt opencv cpu
+                                                                                    or gocv cpu
